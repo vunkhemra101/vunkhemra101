@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
 ### 🗄️ Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
